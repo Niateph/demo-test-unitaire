@@ -12,6 +12,7 @@ public final class StringUtils {
      * @param lhs chaine 1
      * @param rhs chaine 2
      * @return distance
+     * 
      */
     public static int levenshteinDistance(CharSequence lhs, CharSequence rhs) throws Exception{
 	
