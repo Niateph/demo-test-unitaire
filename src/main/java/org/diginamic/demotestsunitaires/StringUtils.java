@@ -23,7 +23,6 @@ public final class StringUtils {
 	
 	int len0 = lhs.length() + 1;
 	int len1 = rhs.length() + 1;
-
 	
 	
 	int[] cost = new int[len0];
